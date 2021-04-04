@@ -1,5 +1,5 @@
 run:
-nWelcome to the ATM Project!
+Welcome to the ATM Project!
 Enter your customer Number: 160951
 Enter your PIN Number: 100001
 
